@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/regionsFragment">
+
+    <fragment
+        android:id="@+id/regionsFragment"
+        android:name="sv.edu.udb.countriesweather.ui.fragments.RegionsFragment"
+        android:label="Regions" >
+        <action
+            android:id="@+id/action_regions_to_countries"
+            app:destination="@id/countriesFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/countriesFragment"
+        android:name="sv.edu.udb.countriesweather.ui.fragments.CountriesFragment"
+        android:label="Countries" >
+        <action
+            android:id="@+id/action_countries_to_detail"
+            app:destination="@id/countryDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/countryDetailFragment"
+        android:name="sv.edu.udb.countriesweather.ui.fragments.CountryDetailFragment"
+        android:label="Detail" />
+</navigation>

@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/layout_fragment_regions.xml.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/layout/fragment_regions.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/layout_fragment_country_detail.xml.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/layout/fragment_country_detail.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/drawable_ripple_red.xml.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/drawable/ripple_red.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/layout_item_region.xml.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/layout/item_region.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/drawable_bg_primary.xml.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/drawable/bg_primary.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/drawable_card_bg.xml.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/layout_item_country.xml.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/layout/item_country.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/layout_activity_main.xml.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/navigation_nav_graph.xml.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-debug-49:/layout_fragment_countries.xml.flat",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/layout/fragment_countries.xml"
+    }
+]

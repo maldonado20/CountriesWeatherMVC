@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "sv.edu.udb.countriesweather.app-mergeDebugResources-48:/layout/fragment_country_detail.xml",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/layout/fragment_country_detail.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-mergeDebugResources-48:/layout/item_region.xml",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/layout/item_region.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-mergeDebugResources-48:/layout/fragment_regions.xml",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/layout/fragment_regions.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-mergeDebugResources-48:/layout/fragment_countries.xml",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/layout/fragment_countries.xml"
+    },
+    {
+        "merged": "sv.edu.udb.countriesweather.app-mergeDebugResources-48:/layout/item_country.xml",
+        "source": "sv.edu.udb.countriesweather.app-main-51:/layout/item_country.xml"
+    }
+]

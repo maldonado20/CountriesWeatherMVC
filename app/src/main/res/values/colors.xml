@@ -1,0 +1,9 @@
+<resources>
+    <color name="blue_black">#0A0F1F</color>
+    <color name="deep_black">#000000</color>
+    <color name="accent_red">#FF3040</color>
+    <color name="card_bg">#121826</color>
+    <color name="text_primary">#E6EDF7</color>
+    <color name="text_secondary">#A1AEC6</color>
+    <color name="chip_bg">#1C2333</color>
+</resources>

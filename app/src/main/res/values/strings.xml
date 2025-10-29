@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CountriesWeatherMVC</string>
+    <string name="regions">Regiones</string>
+    <string name="countries">Países</string>
+    <string name="capital">Capital</string>
+    <string name="population">Población</string>
+    <string name="region">Región</string>
+    <string name="subregion">Subregión</string>
+    <string name="iso_codes">Códigos ISO</string>
+    <string name="languages">Idiomas</string>
+    <string name="currencies">Monedas</string>
+    <string name="weather">Clima</string>
+    <string name="feels_like">Sensación</string>
+    <string name="humidity">Humedad</string>
+    <string name="wind">Viento</string>
+    <string name="retry">Reintentar</string>
+    <string name="loading">Cargando…</string>
+    <string name="error">Ocurrió un error</string>
+    <string name="weather_from">Clima en %1$s</string>
+    <string name="by_udb">UDB</string>
+</resources>
