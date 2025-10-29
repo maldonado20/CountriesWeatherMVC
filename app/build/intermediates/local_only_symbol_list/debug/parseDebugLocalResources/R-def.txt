@@ -5,11 +5,13 @@ color blue_black
 color card_bg
 color chip_bg
 color deep_black
+color ic_launcher_background
 color text_primary
 color text_secondary
 drawable bg_primary
 drawable card_bg
 drawable ic_launcher_foreground
+drawable outline_airwave_24
 drawable ripple_red
 id action_countries_to_detail
 id action_regions_to_countries
